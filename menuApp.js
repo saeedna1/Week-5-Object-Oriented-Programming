@@ -1,6 +1,6 @@
 //week 5 video
 
-/*
+
 class Player {
     constructor(name, position) {
         this.name = name;
@@ -139,5 +139,3 @@ class Menu {
 
 let menu = new Menu();
 menu.start();
-
-*/
